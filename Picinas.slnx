@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="front_CHpicina/front_CHpicina.csproj" />
+  <Project Path="Lib_picina/Lib_CHpicina.csproj" />
+  <Project Path="presentacion_CHpicina/presentacion_CHpicina.csproj" />
+  <Project Path="prueba_CHpicina/prueba_CHpicina.csproj" />
+  <Project Path="servicio_CHpicina/servicio_CHpicina.csproj" />
+</Solution>
